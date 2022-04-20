@@ -8,10 +8,14 @@ Also, it is intended to maintain certain realistic lighting. To achieve anime fe
 Copy the shader and apply it to any material
 
 ## Example
+Only Base Texture need to be set up, no need to add other texture
+
+
 
 ![image](https://user-images.githubusercontent.com/39010822/164247330-f904d5f3-f49a-4959-9c44-9a393fcac3b8.png)
 ![image](https://user-images.githubusercontent.com/39010822/164247612-34859f90-99e0-47e6-b3f6-64dcc1f478d7.png)
-Only Base Texture need to be set up, no need to add other texture
+
+
 
 
 ## Standard Shader For Comparison
