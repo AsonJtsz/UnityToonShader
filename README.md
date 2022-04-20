@@ -1,7 +1,7 @@
 # UnityToonShader
 A Unity Shader Lab Script
 
-I made the shader because there is no simply and easy to use shader from asset, most of them use additional texture for lightmap, color discretization, etc. 
+I made the shader because there is no simple and easy to use shader from asset, most of them use additional texture for lightmap, color discretization, etc. 
 This shader does not require any texture setup and can be used easily.
 
 Copy the shader and apply it to any material
