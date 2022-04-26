@@ -19,6 +19,7 @@ Only Base Texture need to be set up, no need to add other texture
 ### Shader with outline and outline setting
 
 setting script: PostProcessOutline.cs
+
 outline method: sobel filter, robert filter and outline according to viewing normal/viewing direction from camera
 
 ![image](https://user-images.githubusercontent.com/39010822/165343631-daf3a570-04df-4e2e-af2c-4c174c950858.png)
