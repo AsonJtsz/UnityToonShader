@@ -6,6 +6,7 @@ This shader does not require any texture setup and can be used easily.
 Also, it is intended to maintain certain realistic lighting. To achieve anime feeling, only quantization of the diretional light is needed.
 
 Copy the ToonShader and it is ready to use.
+
 For outline, Unity PostProcessing need to be downloaded to use the script.
 
 ## Example
